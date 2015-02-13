@@ -1,6 +1,7 @@
 //This is a test comment in main made online on github.com
 //This is a test comment made from eclipse. Fuck I have to wake up tomorrow.
 //Kill urself
+//goml
 
 package com.base.engine;
 
